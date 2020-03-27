@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class FilterString extends Component {
 
    constructor(props){
-      super(props);
+      super(props);  
 
       this.state = {
          names: ['James', 'Jessica', 'Melody', 'Tyler', 'Blake', 'Jennifer', 'Mark', 'Mandy'],
